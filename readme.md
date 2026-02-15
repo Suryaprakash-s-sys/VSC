@@ -1,5 +1,3 @@
-# Welcome to git course
+# welcome to git course
 
-# this page is bug page
-
-# this page is bug --> feature 
+# version 2.0
